@@ -1,7 +1,7 @@
 
 
 
-# 💾💾 Slay the Spire 2 Save Editor 2026 — Profile Manager & Run Modifier
+# 💾 Slay the Spire 2 Save Editor 2026 — Profile Manager & Run Modifier
 
 [![GitHub Stars](https://img.shields.io/github/stars/Alexantros341/SlayTheSpire2-Save-Editor)](https://github.com/Alexantros341/SlayTheSpire2-Save-Editor)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
